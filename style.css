@@ -1,0 +1,42 @@
+body{
+background: linear-gradient(to top right, #8ce6fa, #F4A896)
+}
+
+#note{
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 23px;
+    font-weight: bolder;
+    color: black;
+    border: orange 3px ridge;
+    width: 1000px;
+    padding: 2px;
+}
+
+#heading{
+    font-family: 'Mate SC', serif;
+    font-family: 25px;
+    color: black;
+    font-weight: bolder;
+}
+
+input{
+    width: 300px;
+    border-radius: 0px;
+}
+
+#start{
+    font-family: 'Big Shoulders Stencil Display', cursive;
+    font-size: 20px;
+    color: pink;
+    text-shadow: 2px 2px rgb(21, 7, 223);
+    padding: 5px;
+    letter-spacing: 1px;
+    background-color: black;
+}
+
+#status, #status1{
+    font-family: 'Arvo', serif;
+    font-weight: bold;
+    font-size: 18px !important;
+}
+
